@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="obsidium-example.vcxproj" Id="bfb3775e-4831-43e6-8acc-5b2b69ec66aa" />
+</Solution>
