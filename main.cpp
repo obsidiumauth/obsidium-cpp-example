@@ -106,10 +106,6 @@ int main()
         std::cout << skCrypt("\nLicense key: ").decrypt();
         std::cin >> license_key;
 
-
-        std::cout << "license here: " << std::endl;
-        std::cout << "license here: " << std::endl;
-
         const auto license_result = obsidium::license(license_key);
 
         std::cout << skCrypt("\nlicense success: ").decrypt() << license_result.success << '\n';
